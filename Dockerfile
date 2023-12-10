@@ -1,5 +1,5 @@
 # ベースイメージの指定
-FROM node:18.16.0-slim
+FROM node:18.17.1
 
 # 非対話型の設定
 ARG DEBIAN_FRONTEND=noninteractive
